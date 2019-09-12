@@ -5,9 +5,9 @@ canvas.height = window.innerHeight;
 document.body.appendChild(canvas);
 document.body.style.margin = 0;
 
-let minimumDistance = prompt("amount of magnetic distance");
-let population = prompt("amount of population number");
-let repellingForce = prompt("amount of repellance force");
+let population = prompt("population: (enter an integer e.g. 1-500)") || 100;
+let minimumDistance = prompt("magnetic distance: (enter an integer e.g. 1-100)") || 70;
+let repellingForce = prompt("magnetic resistance: (enter an integer e.g. 1-5)") || 2;
 let points = [];
 
 for(let i = 0; i < population; i++)
