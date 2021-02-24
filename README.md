@@ -1,5 +1,5 @@
 # Particle Simulator
-**@author: ormuseldesu**  
+**@author: ormux**  
 **@date:2019-09-07 | August 6, 2019**  
 
 at the initial start of the simulator, you will be asked of three integer values to enter.
