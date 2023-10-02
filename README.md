@@ -1,11 +1,17 @@
-# Particle Simulator
-**@author: ormux**  
-**@date:2019-09-07 | August 6, 2019**  
+<div align='center'>
+<h1 align="center"><a href="https://tatumroaquin.github.io/game-of-life/">Particle Simulator</a></h1>
+<h5 align="center">07/08/2019</h5>
 
-at the initial start of the simulator, you will be asked of three integer values to enter.
+![](./particle-simulator.gif)
 
-**population**: specifies how much particles to simulate.</br>
-**magnetic distance**: specifies how much magnetic range each particle has.</br>
-**magnetic resistance**: specifies the gravtiational repelling force to apply.</br>
+<h2 align="center">Description</h2>
+<p align="center">particle simulator is a little visual animation of particles to simulate repulsion forces</p>
 
-![particle-engine](https://user-images.githubusercontent.com/19354579/64465757-b1612280-d151-11e9-820a-66ac7bef7355.gif)
+`population` specifies how much particles to simulate, 
+`magnetic distance` specifies how much magnetic range each particle has,
+`magnetic resistance` specifies the gravtiational repelling force to apply.
+
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-black?logo=HTML5" />
+<img alt="CSS" src="https://img.shields.io/badge/-CSS-black?logo=CSS3" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?logo=JavaScript" />
+</div>
