@@ -1,5 +1,5 @@
 <div align='center'>
-<h1 align="center"><a href="https://tatumroaquin.github.io/game-of-life/">Particle Simulator</a></h1>
+<h1 align="center"><a href="https://tatumroaquin.github.io/particle-simulator/">Particle Simulator</a></h1>
 <h5 align="center">07/08/2019</h5>
 
 ![](./particle-simulator.gif)
